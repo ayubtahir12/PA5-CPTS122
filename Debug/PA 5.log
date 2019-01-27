@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ayub\documents\class assignments\2018 fall\cpts 122\programming assignments\pa 5\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TestClass.cpp
+  Generating Code...
+  PA 5.vcxproj -> C:\Users\Ayub\Documents\Class Assignments\2018 Fall\CPTS 122\Programming Assignments\PA 5\Debug\PA 5.exe
+  PA 5.vcxproj -> C:\Users\Ayub\Documents\Class Assignments\2018 Fall\CPTS 122\Programming Assignments\PA 5\Debug\PA 5.pdb (Full PDB)
